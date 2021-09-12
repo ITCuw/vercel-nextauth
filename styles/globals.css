@@ -1,0 +1,51 @@
+html,
+body {
+  background-color: #ECEDF2;
+  color: #292929;
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+    max-width: 2800px;
+  box-sizing: border-box;
+}
+
+/* TO BE DELETED*/
+h6{
+color: #585858;
+font-size: 1.6rem;
+margin-bottom: 21px;
+margin-top: -18px;
+}
+
+.templatelink{
+  color: rgb(83, 83, 214);
+  text-decoration: underline;
+}
+
+.templatestep{
+  color: rgb(175, 175, 175);
+}
+
+.templatestep2{
+  margin-top: 60px;
+  margin-bottom: 40px;
+  color: rgb(175, 175, 175);
+}
+
+.templatediv{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
